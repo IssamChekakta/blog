@@ -94,4 +94,4 @@ architecture mux_2_1 of mux_2_1_tb is
 		end process;	
 end mux_2_1;
 ```
-![Waveform of Mux[2-1]](../images/Day1_wave.png = x400)
+![Waveform of Mux[2-1]](../images/Day1_wave.png)
