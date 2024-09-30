@@ -2,7 +2,7 @@
 
 ## Day 1
 
-'''
+```vhdl
 
 library ieee;
 use ieee.numeric_std.all;
@@ -36,4 +36,4 @@ end process;
 
 end Behavioral;
 
-'''
+```
