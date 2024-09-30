@@ -2,7 +2,7 @@
 
 ## Day 1
 
-### RTL Code:
+### RTL Code
 ```vhdl
 
 library ieee;
@@ -36,7 +36,7 @@ end Behavioral;
 
 ```
 
-### Testbench:
+### Testbench
 
 ```vhdl
 library ieee;
@@ -94,4 +94,10 @@ architecture mux_2_1 of mux_2_1_tb is
 		end process;	
 end mux_2_1;
 ```
+
+### Simulation Waveform
 ![Waveform of Mux[2-1]](../images/Day1_wave.png)
+
+### Schematic
+
+![Schematic of Mux[2-1]](../images/Day1_rtl.png)
