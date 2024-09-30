@@ -1,7 +1,6 @@
-# Some feature
+# 100Days of FPGA
 
-## Subsection
-
+## Day 1
 Exciting documentation in here.
 Let's make a list (empty surrounding lines required):
 
