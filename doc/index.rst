@@ -8,7 +8,14 @@ Welcome to Example's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: FPGA MISC
 
    100Days.md
    another-feature.md
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: RESEARCH
+
+   100Days.md
