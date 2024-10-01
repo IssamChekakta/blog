@@ -5,6 +5,7 @@
 
 Welcome to Example's documentation!
 ===================================
+.. Note:: You can find a brief summary.
 
 .. toctree::
    :maxdepth: 2
